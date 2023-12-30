@@ -124,7 +124,7 @@ pure-eval==0.2.2
 pyarrow==13.0.0
 pycparser==2.21
 pydantic==2.5.0
-pydantic_core==2.10.0
+pydantic_core
 pydeck==0.8.1b0
 pydot==1.4.2
 Pygments==2.16.1
